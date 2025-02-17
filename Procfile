@@ -1,1 +1,1 @@
-worker: python expense_bot.py
+worker: python main.py
