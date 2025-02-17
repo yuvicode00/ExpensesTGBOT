@@ -1,0 +1,2 @@
+# ExpensesTGBOT
+Telegram expenses bot
